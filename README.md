@@ -1,6 +1,6 @@
 # 🤖 Stylized Diffusion Policies via VLM Data Alchemy
 
-![System Architecture](plots/system_diagram.png) *(可放入您報告中的架構圖)*
+![System Architecture](plots/flowchart.png) *(可放入您報告中的架構圖)*
 
 This repository contains the official PyTorch implementation of **"Generating Personality: A Framework for Unsupervised Style Discovery in Robotic Manipulation."** It demonstrates how to decouple *what* a robot does from *how* it does it, leveraging Vision-Language Models (VLMs) as offline annotators and deploying lightweight diffusion policies on edge hardware (Apple M1).
 
